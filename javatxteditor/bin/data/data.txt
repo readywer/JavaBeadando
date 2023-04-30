@@ -1,0 +1,9 @@
+ID;Név;Születési hely;Születési idõ;Nem
+1;Attila;Miskolc;2001.08.01;Férfi
+2;Béla;Budapest;1999.01.12;Férfi
+3;assa;baa;22;Férfi
+4;alma;alma;10;Férfi
+5;sa;sa;0000.00.00;Férfi
+6;da;da;0000.00.00;Férfi
+8;aaaaaa;aaaaaaa;1111.11.11;Férfi
+9;ddda;ddd;1111.00.00;Férfi
